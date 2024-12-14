@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James C. Opara
-- 👀 I’m interested in software engineering, AI & Ml
+- 👀 I’m interested in software engineering, AI & ML
 - 🌱 I’m currently learning web development (HTML, CSS, JavaScript)
 - 💞️ I’m looking to collaborate on frontend development projects
 - 📫 How to reach me is via jaceyopara@gmail.com
