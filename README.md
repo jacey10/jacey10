@@ -39,13 +39,13 @@ I enjoy turning designs into clean, responsive interfaces and exploring the worl
 
 🔹 QR Code Component
 
-📁 Repo → https://github.com/jacey10/fm-qr-code-component-challenge
-🌐 Live Demo → https://jacey10.github.io/fm-qr-code-component-challenge/
+- [📁 Repo] → https://github.com/jacey10/fm-qr-code-component-challenge
+- [🌐 Live Demo] → https://jacey10.github.io/fm-qr-code-component-challenge/
 
 🔹 Product Preview Card Component
 
-📁 Repo → https://github.com/jacey10/fm-blog-preview-card-challenge
-🌐 Live Demo → https://jacey10.github.io/fm-blog-preview-card-challenge/
+- [📁 Repo] → https://github.com/jacey10/fm-blog-preview-card-challenge
+- [🌐 Live Demo] → https://jacey10.github.io/fm-blog-preview-card-challenge/
 
 
 More projects coming soon as I complete more Frontend Mentor challenges. 🌱
