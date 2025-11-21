@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=700&color=4A8BFF&center=true&vCenter=true&width=650&lines=Frontend+Developer+in+Progress;Learning+by+Building+Real+Projects;Focused+on+Clean+%26+Responsive+UI" />
 </p>
 
-## 💁‍♀️ About Me
+## 👩‍💻 About Me
 Frontend developer in the making — building, breaking, fixing, and learning every day.
 I enjoy turning designs into clean, responsive interfaces and exploring the world of web development one project at a time.
 
