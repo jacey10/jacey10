@@ -52,7 +52,7 @@ More projects coming soon as I complete more Frontend Mentor challenges. 🌱
 
 
 ## 📊 GitHub Stats
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jacey10&show_icons=true&theme=default" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacey&layout=compact&theme=default" /> </div>
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jacey10&show_icons=true&theme=default" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacey10&layout=compact&theme=default" /> </div>
 
 ## 🎯 Goals
 - Build 10+ Frontend Mentor challenges
@@ -65,9 +65,21 @@ More projects coming soon as I complete more Frontend Mentor challenges. 🌱
 
 - Become confident with Git + GitHub workflows
 
+
 ## 📫 Connect
 
-Thanks for stopping by — feel free to explore my repos anytime!
+Thanks for stopping by! Feel free to explore my repos anytime.
+
+<p align="left">
+  <a href="https://x.com/jacey_opara">
+    <img src="https://img.shields.io/badge/X-@jacey-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://www.linkedin.com/in/james-c-opara/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jacey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+
 
 <!---
 jacey10/About me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
