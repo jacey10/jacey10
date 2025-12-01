@@ -57,10 +57,7 @@ More projects coming soon as I complete more Frontend Mentor challenges. 🌱
 
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jacey10&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jacey10&layout=compact&theme=default" />
-</div>
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jacey10&show_icons=true&theme=default" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacey10&layout=compact&theme=default" /> </div>
 
 
 ## 🎯 Goals
