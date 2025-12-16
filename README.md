@@ -1,7 +1,7 @@
 # <p align="center">👋 Hey, I'm <strong>Jacey</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=700&color=4A8BFF&center=true&vCenter=true&width=650&lines=Frontend+Developer+in+Progress;Learning+by+Building+Real+Projects;Focused+on+Clean+%26+Responsive+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=700&color=#4ade80&center=true&vCenter=true&width=650&lines=Frontend+Developer+in+Progress;Learning+by+Building+Real+Projects;Focused+on+Clean+%26+Responsive+UI" />
 </p>
 
 ## 👩‍💻 About Me
@@ -51,6 +51,16 @@ I enjoy turning designs into clean, responsive interfaces and exploring the worl
 
 - [📁 Repo] → https://github.com/jacey10/fm-social-links-profile-challenge
 - [🌐 Live Demo] → https://jacey10.github.io/fm-social-links-profile-challenge/
+
+🔹 Recipe Page
+
+- [📁 Repo] → https://github.com/jacey10/fm-recipe-page-challenge
+- [🌐 Live Demo] → https://jacey10.github.io/fm-recipe-page-challenge/
+
+🔹 Product Preview Card Component
+
+- [📁 Repo] → https://github.com/jacey10/fm-product-preview-card-challenge
+- [🌐 Live Demo] → https://jacey10.github.io/fm-product-preview-card-challenge/
 
 
 More projects coming soon as I complete more Frontend Mentor challenges. 🌱
