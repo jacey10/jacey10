@@ -67,7 +67,7 @@ I enjoy turning designs into clean, responsive interfaces and exploring the worl
 - [📁 Repo] → https://github.com/jacey10/fm-four-card-feature-section-challenge
 - [🌐 Live Demo] → https://jacey10.github.io/fm-four-card-feature-section-challenge/
 
-- 🔹 Testimonials Grid Section
+🔹 Testimonials Grid Section
 
 - [📁 Repo] → https://github.com/jacey10/fm-testimonials-grid-section
 - [🌐 Live Demo] → https://jacey10.github.io/fm-testimonials-grid-section/
