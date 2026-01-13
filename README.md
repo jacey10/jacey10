@@ -37,20 +37,6 @@ I enjoy turning designs into clean, responsive interfaces and exploring the worl
 
 ## ✨ Featured Project
 
-🔹 QR Code Component
-
-- [📁 Repo] → https://github.com/jacey10/fm-qr-code-component-challenge
-- [🌐 Live Demo] → https://jacey10.github.io/fm-qr-code-component-challenge/
-
-🔹 Blog Preview Card
-
-- [📁 Repo] → https://github.com/jacey10/fm-blog-preview-card-challenge
-- [🌐 Live Demo] → https://jacey10.github.io/fm-blog-preview-card-challenge/
-
-🔹 Social Links Profile
-
-- [📁 Repo] → https://github.com/jacey10/fm-social-links-profile-challenge
-- [🌐 Live Demo] → https://jacey10.github.io/fm-social-links-profile-challenge/
 
 🔹 Recipe Page
 
@@ -72,6 +58,12 @@ I enjoy turning designs into clean, responsive interfaces and exploring the worl
 - [📁 Repo] → https://github.com/jacey10/fm-testimonials-grid-section
 - [🌐 Live Demo] → https://jacey10.github.io/fm-testimonials-grid-section/
 
+- 🔹 Article Preview Component
+
+- [📁 Repo] → https://github.com/jacey10/fm-article-preview-component
+- [🌐 Live Demo] → https://jacey10.github.io/fm-article-preview-component/
+
+
 
 More projects coming soon as I complete more Frontend Mentor challenges. 🌱
 
@@ -81,7 +73,7 @@ More projects coming soon as I complete more Frontend Mentor challenges. 🌱
 
 
 ## 🎯 Goals
-- Build 10+ Frontend Mentor challenges
+- Build 30+ Frontend Mentor challenges
 
 - Get comfortable with JavaScript interactivity
 
