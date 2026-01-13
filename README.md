@@ -43,22 +43,26 @@ I enjoy turning designs into clean, responsive interfaces and exploring the worl
 - [📁 Repo] → https://github.com/jacey10/fm-recipe-page-challenge
 - [🌐 Live Demo] → https://jacey10.github.io/fm-recipe-page-challenge/
 
+
 🔹 Product Preview Card Component
 
 - [📁 Repo] → https://github.com/jacey10/fm-product-preview-card-challenge
 - [🌐 Live Demo] → https://jacey10.github.io/fm-product-preview-card-challenge/
+
   
 🔹 Four Card Feature Component
 
 - [📁 Repo] → https://github.com/jacey10/fm-four-card-feature-section-challenge
 - [🌐 Live Demo] → https://jacey10.github.io/fm-four-card-feature-section-challenge/
 
+
 🔹 Testimonials Grid Section
 
 - [📁 Repo] → https://github.com/jacey10/fm-testimonials-grid-section
 - [🌐 Live Demo] → https://jacey10.github.io/fm-testimonials-grid-section/
 
-- 🔹 Article Preview Component
+
+🔹 Article Preview Component
 
 - [📁 Repo] → https://github.com/jacey10/fm-article-preview-component
 - [🌐 Live Demo] → https://jacey10.github.io/fm-article-preview-component/
