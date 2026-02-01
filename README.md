@@ -67,6 +67,17 @@ I enjoy turning designs into clean, responsive interfaces and exploring the worl
 - [📁 Repo] → https://github.com/jacey10/fm-article-preview-component
 - [🌐 Live Demo] → https://jacey10.github.io/fm-article-preview-component/
 
+ 
+🔹 Dice Game
+
+- [📁 Repo] → https://github.com/jacey10/two-player-dice-game
+- [🌐 Live Demo] → https://jacey10.github.io/two-player-dice-game/
+
+🔹 Newsletter Sign-up Form with Success Message
+
+- [📁 Repo] → https://github.com/jacey10/fm-newsletter-signup-form-challenge
+- [🌐 Live Demo] → https://jacey10.github.io/fm-newsletter-signup-form-challenge/
+
 
 
 More projects coming soon as I complete more Frontend Mentor challenges. 🌱
