@@ -9,34 +9,24 @@ Frontend developer in the making — building, breaking, fixing, and learning ev
 I enjoy turning designs into clean, responsive interfaces and exploring the world of web development one project at a time.
 
 ## 🚀 What I’m Working On
-
-- Solving Frontend Mentor challenges
-
-- Improving my Git + GitHub workflow
-
-- Practicing responsive layouts (Flexbox + Grid)
-
-- Strengthening my HTML & CSS fundamentals
-
+- Completing intermediate Frontend Mentor challenges  
+- Strengthening JavaScript skills with DOM, events, and ES6+ features  
+- Practicing responsive layouts and modern CSS (Flexbox & Grid)  
+- Exploring Tailwind CSS for faster, scalable styling  
+- Improving Git + GitHub workflows for better collaboration and version control
+  
 ## 🛠️ Tech Stack
 | HTML                                                                                                      | CSS                                                                                                    | JavaScript                                                                                                         | Git                                                                                                   | GitHub                                                                                                         |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black) | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white) |
 
 ## 📚 What I’m Learning
-
-- Modern CSS layout techniques
-
-- Subtle UI animations
-
-- JavaScript DOM interactions
-
-- Better commit workflow and branching
-
-- Project documentation and clean repo structure
+- Solidifying JavaScript fundamentals: variables, scope, functions, arrays, objects  
+- Intermediate JavaScript: DOM interactions, event handling, higher-order functions, async/await, ES6+ features  
+- Tailwind CSS for utility-first, responsive design  
+- Better Git workflows: commits, branching, and collaboration
 
 ## ✨ Featured Project
-
 
 🔹 Recipe Page
 
