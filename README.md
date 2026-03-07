@@ -27,17 +27,6 @@ I build the web, one deliberate pixel at a time. As a Frontend Engineer, I bridg
 
 ## ✨ Featured Project
 
-🔹 Recipe Page
-
-- [📁 Repo] → https://github.com/jacey10/fm-recipe-page-challenge
-- [🌐 Live Demo] → https://jacey10.github.io/fm-recipe-page-challenge/
-
-
-🔹 Product Preview Card Component
-
-- [📁 Repo] → https://github.com/jacey10/fm-product-preview-card-challenge
-- [🌐 Live Demo] → https://jacey10.github.io/fm-product-preview-card-challenge/
-
   
 🔹 Four Card Feature Component
 
@@ -49,12 +38,6 @@ I build the web, one deliberate pixel at a time. As a Frontend Engineer, I bridg
 
 - [📁 Repo] → https://github.com/jacey10/fm-testimonials-grid-section
 - [🌐 Live Demo] → https://jacey10.github.io/fm-testimonials-grid-section/
-
-
-🔹 Article Preview Component
-
-- [📁 Repo] → https://github.com/jacey10/fm-article-preview-component
-- [🌐 Live Demo] → https://jacey10.github.io/fm-article-preview-component/
   
 
 🔹 Dice Game
