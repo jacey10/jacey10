@@ -66,18 +66,30 @@ I enjoy turning designs into clean, responsive interfaces and exploring the worl
 
 - [📁 Repo] → https://github.com/jacey10/fm-article-preview-component
 - [🌐 Live Demo] → https://jacey10.github.io/fm-article-preview-component/
+  
 
- 
 🔹 Dice Game
 
 - [📁 Repo] → https://github.com/jacey10/two-player-dice-game
 - [🌐 Live Demo] → https://jacey10.github.io/two-player-dice-game/
+  
 
 🔹 Newsletter Sign-up Form with Success Message
 
 - [📁 Repo] → https://github.com/jacey10/fm-newsletter-signup-form-challenge
 - [🌐 Live Demo] → https://jacey10.github.io/fm-newsletter-signup-form-challenge/
+  
 
+🔹 Time-Tracking Dashboard
+
+- [📁 Repo] → https://github.com/jacey10/fm-time-tracking-dashboard
+- [🌐 Live Demo] → https://jacey10.github.io/fm-time-tracking-dashboard/
+
+
+🔹 Tip Calculator App
+
+- [📁 Repo] → https://github.com/jacey10/fm-tip-calculator-app
+- [🌐 Live Demo] → https://jacey10.github.io/fm-tip-calculator-app/
 
 
 More projects coming soon as I complete more Frontend Mentor challenges. 🌱
@@ -88,15 +100,12 @@ More projects coming soon as I complete more Frontend Mentor challenges. 🌱
 
 
 ## 🎯 Goals
-- Build 30+ Frontend Mentor challenges
-
-- Get comfortable with JavaScript interactivity
-
-- Create a polished personal portfolio
-
-- Level up my CSS skills
-
-- Become confident with Git + GitHub workflows
+- Complete 30+ Frontend Mentor challenges with intermediate-level projects  
+- Master intermediate JavaScript concepts: ES6+ features, DOM manipulation, asynchronous code, and higher-order functions  
+- Build a polished personal portfolio showcasing dynamic and interactive projects
+- Deepen CSS skills: layouts, animations, and responsive design
+- Strengthen Git + GitHub workflows for version control and collaboration
+- Prepare to learn React and Tailwind for modern, scalable frontend development
 
 
 ## 📫 Connect
