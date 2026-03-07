@@ -85,7 +85,7 @@ More projects coming soon as I complete more Frontend Mentor challenges. 🌱
 Thanks for stopping by! Feel free to explore my repos anytime.
 
 <p align="left">
-  <a href="https://x.com/jacey_opara">
+  <a href="https://x.com/jacey_muna">
     <img src="https://img.shields.io/badge/X-@jacey-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
   <a href="https://www.linkedin.com/in/james-c-opara/">
