@@ -52,9 +52,6 @@ I build the web, one deliberate pixel at a time. As a Frontend Engineer, I bridg
 - [🌐 Live Demo] → https://jacey10.github.io/fm-tip-calculator-app/
 
 
-More projects coming soon as I complete more Frontend Mentor challenges. 🌱
-
-
 ## 📊 GitHub Stats
 <div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jacey10&show_icons=true&theme=default" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacey10&layout=compact&theme=default" /> </div>
 
