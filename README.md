@@ -1,7 +1,7 @@
 # <p align="center">👋 Hey, I'm <strong>Jacey</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=700&color=4ADE80&center=true&vCenter=true&width=650&lines=Frontend+Developer;Accessible+%26+Responsive+UI;HTML+%7C+CSS+%7C+JavaScript+%7C+React" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3500&pause=700&color=4ADE80&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;Accessible+%26+Responsive+UI;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Tailwind" />
 </p>
 
 ## 👩‍💻 About Me
