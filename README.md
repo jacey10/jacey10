@@ -50,6 +50,18 @@ I build the web, one deliberate pixel at a time. As a Frontend Engineer, I bridg
 
 - [📁 Repo] → https://github.com/jacey10/fm-tip-calculator-app
 - [🌐 Live Demo] → https://jacey10.github.io/fm-tip-calculator-app/
+- 
+
+🔹 FAQ Accordion
+
+- [📁 Repo] → https://github.com/jacey10/fm-FAQ-accordion-challenge
+- [🌐 Live Demo] → https://jacey10.github.io/fm-FAQ-accordion-challenge/
+
+
+🔹 Contact Form
+
+- [📁 Repo] → https://github.com/jacey10/fm-contact-form-challenge
+- [🌐 Live Demo] → https://jacey10.github.io/fm-contact-form-challenge/
 
 
 ## 📊 GitHub Stats
