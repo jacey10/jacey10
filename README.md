@@ -50,7 +50,7 @@ I build the web, one deliberate pixel at a time. As a Frontend Engineer, I bridg
 
 - [📁 Repo] → https://github.com/jacey10/fm-tip-calculator-app
 - [🌐 Live Demo] → https://jacey10.github.io/fm-tip-calculator-app/
-- 
+  
 
 🔹 FAQ Accordion
 
