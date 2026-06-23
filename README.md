@@ -73,7 +73,7 @@ I build the web, one deliberate pixel at a time. As a Frontend Engineer, I bridg
 Thanks for stopping by! Feel free to explore my repos anytime.
 
 <p align="left">
-  <a href="https://x.com/jacey_muna">
+  <a href="https://x.com/jacey10_">
     <img src="https://img.shields.io/badge/X-@jacey-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
   <a href="https://www.linkedin.com/in/james-c-opara/">
