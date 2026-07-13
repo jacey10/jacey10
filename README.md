@@ -15,53 +15,7 @@ I build the web, one deliberate pixel at a time. As a Frontend Engineer, I bridg
 
 ## ✨ Featured Project
 
-  
-🔹 Four Card Feature Component
-
-- [📁 Repo] → https://github.com/jacey10/fm-four-card-feature-section-challenge
-- [🌐 Live Demo] → https://jacey10.github.io/fm-four-card-feature-section-challenge/
-
-
-🔹 Testimonials Grid Section
-
-- [📁 Repo] → https://github.com/jacey10/fm-testimonials-grid-section
-- [🌐 Live Demo] → https://jacey10.github.io/fm-testimonials-grid-section/
-  
-
-🔹 Dice Game
-
-- [📁 Repo] → https://github.com/jacey10/two-player-dice-game
-- [🌐 Live Demo] → https://jacey10.github.io/two-player-dice-game/
-  
-
-🔹 Newsletter Sign-up Form with Success Message
-
-- [📁 Repo] → https://github.com/jacey10/fm-newsletter-signup-form-challenge
-- [🌐 Live Demo] → https://jacey10.github.io/fm-newsletter-signup-form-challenge/
-  
-
-🔹 Time-Tracking Dashboard
-
-- [📁 Repo] → https://github.com/jacey10/fm-time-tracking-dashboard
-- [🌐 Live Demo] → https://jacey10.github.io/fm-time-tracking-dashboard/
-
-
-🔹 Tip Calculator App
-
-- [📁 Repo] → https://github.com/jacey10/fm-tip-calculator-app
-- [🌐 Live Demo] → https://jacey10.github.io/fm-tip-calculator-app/
-  
-
-🔹 FAQ Accordion
-
-- [📁 Repo] → https://github.com/jacey10/fm-FAQ-accordion-challenge
-- [🌐 Live Demo] → https://jacey10.github.io/fm-FAQ-accordion-challenge/
-
-
-🔹 Contact Form
-
-- [📁 Repo] → https://github.com/jacey10/fm-contact-form-challenge
-- [🌐 Live Demo] → https://jacey10.github.io/fm-contact-form-challenge/
+Coming soon...
 
 
 ## 📊 GitHub Stats
